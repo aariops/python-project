@@ -1,7 +1,7 @@
 ## Flow:
 
 - [ ] create dictionaries and object relations for each room
-- [ ] 
+- [ ] create function to update state of game: current_room, keys_collected and target_room
 
 
 ### Dictionaries of objects
