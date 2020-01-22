@@ -6,7 +6,7 @@
 
 ### Dictionaries of objects
 
-- [ ] Bedroom 1 - R
+- [x] Bedroom 1 - R
 - [ ] Bedroom 2 - Z
 - [ ] Living room - G
 
